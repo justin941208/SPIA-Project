@@ -1,0 +1,17 @@
+Starting logtraining   loss =  1.601, outputs = 41.2 20.0, model_time = 0.04457, 0.00000, 0.04361, at 2017-08-03 12:16:27
+training   loss =  1.576, outputs = 61.9 20.0, model_time = 0.04361, 0.00000, 0.04266, at 2017-08-03 12:17:11
+training   loss =  1.524, outputs = 62.3 20.0, model_time = 0.04493, 0.00000, 0.04380, at 2017-08-03 12:17:56
+training   loss =  1.409, outputs = 63.8 20.0, model_time = 0.04429, 0.00000, 0.04313, at 2017-08-03 12:18:41
+training   loss =  1.190, outputs = 66.2 20.0, model_time = 0.04432, 0.00000, 0.04321, at 2017-08-03 12:19:26
+training   loss =  0.989, outputs = 66.7 20.0, model_time = 0.04493, 0.00000, 0.04368, at 2017-08-03 12:20:11
+training   loss =  0.880, outputs = 65.6 20.0, model_time = 0.04411, 0.00000, 0.04265, at 2017-08-03 12:20:32
+validation loss =  0.869, outputs = 65.9 20.0, model_time = 0.02009, 0.00000, 0.02009, at 2017-08-03 12:20:50
+saved session in 0.0312504768371582s
+total epoch time      308.08
+finished epoch 0
+
+saving best epoch
+training   loss =  0.836, outputs = 68.1 20.0, model_time = 0.04468, 0.00000, 0.04336, at 2017-08-03 12:21:35
+training   loss =  0.813, outputs = 68.8 20.0, model_time = 0.04510, 0.00000, 0.04385, at 2017-08-03 12:22:21
+training   loss =  0.736, outputs = 71.1 20.0, model_time = 0.04541, 0.00000, 0.04414, at 2017-08-03 12:23:06
+training   loss =  0.717, outputs = 72.4 20.0, model_time = 0.04757, 0.00000, 0.04641, at 2017-08-03 12:23:54
