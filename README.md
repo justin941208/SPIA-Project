@@ -8,7 +8,7 @@ Our midterm presentation slides are here: https://docs.google.com/presentation/d
 
 Our final presentation slides are here: https://docs.google.com/presentation/d/1rGYZapNi5T21yQWw88I0gRbBe3-d14N6S6MwfqcUBd0/edit?usp=sharing
 
-SPIA_Real_AI_Final_Report.pdf: the final report
+The final report: SPIA_Real_AI_Final_Report.pdf
 
-SPIA-Project/holophrasm/script_pred_1.py contains our TFLearn implementation.
+Our TFLearn implementation: SPIA-Project/holophrasm/script_pred_1.py.
       
