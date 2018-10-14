@@ -2,7 +2,7 @@
 
 A study on Holophrasm, an automated theorem prover by Daniel Whalen: https://arxiv.org/abs/1608.02644.
 
-Real AI Statement of Work.pdf: a proposal outlining the objectives and tasks
+Real AI Statement of Work.pdf -- a proposal outlining the objectives and tasks
 
 Our midterm presentation slides are here: https://docs.google.com/presentation/d/1z5QIgqhF9-cpqbyU5WCGDHD2mOxBKzxvqGre6x0Hw6w/edit?usp=sharing
 
