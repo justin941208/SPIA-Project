@@ -8,7 +8,4 @@ Midterm presentation -- https://docs.google.com/presentation/d/1z5QIgqhF9-cpqbyU
 
 Final presentation -- https://docs.google.com/presentation/d/1rGYZapNi5T21yQWw88I0gRbBe3-d14N6S6MwfqcUBd0/edit?usp=sharing
 
-Final Report -- SPIA_Real_AI_Final_Report.pdf
-
-TFLearn implementation -- SPIA-Project/holophrasm/script_pred_1.py.
-      
+Final Report -- SPIA_Real_AI_Final_Report.pdf      
